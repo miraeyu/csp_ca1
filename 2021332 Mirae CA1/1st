@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="author" content="your name">
+    <metaname="description" contnet="description of your page">
+    <title> My first Page </title>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#1">Paragragh 1</a></li>   
+                <li><a href="#2">Paragragh 2</a></li>
+                <li><a href="#3">Paragragh 3</a></li>
+            </ul>
+        </nav>
+   </header>
+   
+<main>
+
+<section>
+<h1>Vienna</h1>
+<p>
+    </p>
+    <figure>
+       
+            <figcaption>
+               
+            </figcaption>
+    </figure>
+    
+    <p id="2">
+
+    </p>
+    
+    <p id="3">
+        
+    </p>
+    </section>
+    </main>
+<footer></footer>
+</body>
+
+</html>
