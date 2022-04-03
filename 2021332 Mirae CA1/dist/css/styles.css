@@ -11286,15 +11286,15 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-
-body{
+/*Decorated the back ground colour and font*/
+body{ 
 background-color: #e9ecef;
 font-family: sans-serif;
 }
 table {
   border-collapse: collapse;
 }
-
+/*decorated the colour in the table using with Html*/
 td, th {
   background-color: #fff;
   border: 1px solid #999;
